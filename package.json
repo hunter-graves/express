@@ -1,0 +1,25 @@
+{
+  "name": "lab2-hunter-graves",
+  "version": "1.0.0",
+  "description": "[express](https://expressjs.com/en/4x/api.html)",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sfsu-csc667-fall19/lab2-hunter-graves.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sfsu-csc667-fall19/lab2-hunter-graves/issues"
+  },
+  "homepage": "https://github.com/sfsu-csc667-fall19/lab2-hunter-graves#readme",
+  "dependencies": {
+    "axios": "^0.19.0",
+    "express": "^4.17.1"
+  },
+  "devDependencies": {}
+}
