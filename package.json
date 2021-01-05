@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/sfsu-csc667-fall19/lab2-hunter-graves#readme",
   "dependencies": {
-    "axios": "^0.19.0",
+    "axios": "^0.21.1",
     "express": "^4.17.1"
   },
   "devDependencies": {}
